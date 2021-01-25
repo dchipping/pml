@@ -104,3 +104,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Autokeras
+course/Problem031_MLAuto/structured_data_classifier
